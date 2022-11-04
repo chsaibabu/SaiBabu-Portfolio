@@ -720,11 +720,11 @@ section {
 }
 
 .services .description {
-  text-align: justify;
-  width: 90%;
-  margin-left: 80px;
-  line-height: 24px;
-  font-size: 12px;
+  text-align: left;
+    width: 82%;
+    margin-left: 80px;
+    line-height: 23px;
+    font-size: 12px;
 }
 
 /*--------------------------------------------------------------
